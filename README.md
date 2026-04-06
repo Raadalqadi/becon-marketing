@@ -1,5 +1,7 @@
 # Becon Marketing
 
+![Becon Marketing Preview](./assets/preview.jpg)
+
 Marketing agency website delivered as a full-stack web project for business presentation and content flexibility.
 
 ## Overview
